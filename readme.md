@@ -19,3 +19,5 @@
 #### [LOS #06 darkelf](https://0xe82de.tistory.com/9)
 
 #### [LOS #07 orge](https://0xe82de.tistory.com/10)
+
+#### [LOS #08 troll](https://0xe82de.tistory.com/11)
