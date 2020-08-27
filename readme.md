@@ -22,8 +22,8 @@
 
 #### [LOS #08 troll](https://0xe82de.tistory.com/11)
 
-#### [LOS #09 troll](https://0xe82de.tistory.com/12)
+#### [LOS #09 vampire](https://0xe82de.tistory.com/12)
 
-#### [LOS #10 troll](https://0xe82de.tistory.com/13)
+#### [LOS #10 skeleton](https://0xe82de.tistory.com/13)
 
-#### [LOS #11 troll](https://0xe82de.tistory.com/14)
+#### [LOS #11 golem](https://0xe82de.tistory.com/14)
