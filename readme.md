@@ -27,3 +27,9 @@
 #### [LOS #10 skeleton](https://0xe82de.tistory.com/13)
 
 #### [LOS #11 golem](https://0xe82de.tistory.com/14)
+
+#### [LOS #12 darkknight](https://0xe82de.tistory.com/15)
+
+#### [LOS #13 bugbear](https://0xe82de.tistory.com/16)
+
+#### [LOS #14 giant](https://0xe82de.tistory.com/17)
