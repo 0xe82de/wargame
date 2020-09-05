@@ -5,7 +5,7 @@ import requests
 
 urlHome ="https://los.rubiya.kr/chall/assassin_14a1fd552c61c60f034879e5d4171373.php"
 p = "?pw="
-c = "crlasl85b7068jsll6p1cliam9" #세션값
+c = "세션값"
 wc = "_"
 length = 0
 pw = ""

@@ -35,3 +35,11 @@
 #### [LOS #14 giant](https://0xe82de.tistory.com/17)
 
 #### [LOS #15 assassin](https://0xe82de.tistory.com/18)
+
+#### [LOS #16 succubus](https://0xe82de.tistory.com/19)
+
+#### [LOS #17 zombie_assassin](https://0xe82de.tistory.com/20)
+
+#### [LOS #18 nightmare](https://0xe82de.tistory.com/21)
+
+#### [LOS #19 xavis](https://0xe82de.tistory.com/22)

