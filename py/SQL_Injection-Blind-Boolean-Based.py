@@ -135,10 +135,3 @@ if __name__=="__main__":
   print("## " + databaseName + "'s table count ##")
   print(str(cntTables) + "개")
   print("")
-
-  if (cntTables != 0):
-    print(1)
-    # 1. 컬럼 개수 파악
-    # 2. 컬럼명 파악
-    # 3. 컬럼별 데이터 파악
-  
