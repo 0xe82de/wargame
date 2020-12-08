@@ -47,3 +47,5 @@
 #### [LOS #20 dragon](https://0xe82de.com/171)
 
 #### [LOS #21 iron_golem](https://0xe82de.com/238)
+
+#### [LOS #22 dark_eyes](https://0xe82de.com/240)
