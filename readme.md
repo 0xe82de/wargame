@@ -51,3 +51,5 @@
 #### [LOS #22 dark_eyes](https://jade9reen.tistory.com/240)
 
 #### [LOS #23 hell_fire](https://jade9reen.tistory.com/241)
+
+#### [LOS #24 evil_wizard](https://jade9reen.tistory.com/242)
